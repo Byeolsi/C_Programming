@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.exe
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.deps.json
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.runtimeconfig.json
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.dll
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\ref\Nemo's ImageShop.dll
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.pdb
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.AssemblyInfo.cs
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.dll
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\ref\Nemo's ImageShop.dll
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.pdb
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.genruntimeconfig.cache
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.Properties.Resources.resources
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.MainForm.resources
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.ConvertForm.resources
+C:\Users\User\source\repos\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.ProgressBar.resources
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.exe
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.deps.json
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.runtimeconfig.json
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.runtimeconfig.dev.json
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.dll
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\ref\Nemo's ImageShop.dll
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\bin\Debug\net5.0-windows\Nemo's ImageShop.pdb
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.csprojAssemblyReference.cache
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.ConvertForm.resources
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.MainForm.resources
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.ProgressBar.resources
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo_s_ImageShop.Properties.Resources.resources
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.csproj.GenerateResource.cache
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.AssemblyInfoInputs.cache
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.AssemblyInfo.cs
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.csproj.CoreCompileInputs.cache
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.dll
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\ref\Nemo's ImageShop.dll
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.pdb
+D:\Documents\과제\C#\CS 미니프로젝트2 - 프로그램, 보고서\솔루션\Nemo's ImageShop\Nemo's ImageShop\obj\Debug\net5.0-windows\Nemo's ImageShop.genruntimeconfig.cache
