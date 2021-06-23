@@ -1,0 +1,32 @@
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\bin\Debug\net5.0\CS HW2.exe
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\bin\Debug\net5.0\CS HW2.deps.json
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\bin\Debug\net5.0\CS HW2.runtimeconfig.json
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\bin\Debug\net5.0\CS HW2.runtimeconfig.dev.json
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\bin\Debug\net5.0\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\bin\Debug\net5.0\ref\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\bin\Debug\net5.0\CS HW2.pdb
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.csprojAssemblyReference.cache
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.AssemblyInfoInputs.cache
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.AssemblyInfo.cs
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.csproj.CoreCompileInputs.cache
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\ref\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.pdb
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2\CS HW2\obj\Debug\net5.0\CS HW2.genruntimeconfig.cache
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\bin\Debug\net5.0\CS HW2.exe
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\bin\Debug\net5.0\CS HW2.deps.json
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\bin\Debug\net5.0\CS HW2.runtimeconfig.json
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\bin\Debug\net5.0\CS HW2.runtimeconfig.dev.json
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\bin\Debug\net5.0\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\bin\Debug\net5.0\ref\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\bin\Debug\net5.0\CS HW2.pdb
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.csprojAssemblyReference.cache
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.AssemblyInfoInputs.cache
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.AssemblyInfo.cs
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.csproj.CoreCompileInputs.cache
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\ref\CS HW2.dll
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.pdb
+D:\Documents\과제\C#\CS HW2\C# HW2 16010980 이우석\CS HW2 솔루션\CS HW2\obj\Debug\net5.0\CS HW2.genruntimeconfig.cache
